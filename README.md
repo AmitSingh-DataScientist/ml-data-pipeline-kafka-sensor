@@ -8,6 +8,12 @@ Step 1: Create a conda environment
 conda --version
 ```
 
+Step 1a: To check whether Conda is working properly
+```
+conda activate
+sourcec activate
+```
+
 Step2: Create  a conda environment
 ```
 conda create -p venv python==3.8 -y
